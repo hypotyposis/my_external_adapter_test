@@ -1,4 +1,4 @@
-name: fxy_test1
+name: fxytest1
 description: Request a type of anime and ranking to query the top 500 anime of that type and return the animeId of the anime at that rank.
 
 node_identifier: FXYTEST1
